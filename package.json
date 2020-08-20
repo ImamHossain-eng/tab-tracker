@@ -1,0 +1,19 @@
+{
+  "name": "tab-tracker",
+  "version": "1.0.0",
+  "description": "A simple tab-tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImamHossain-eng/tab-tracker.git"
+  },
+  "author": "Babu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImamHossain-eng/tab-tracker/issues"
+  },
+  "homepage": "https://github.com/ImamHossain-eng/tab-tracker#readme"
+}
